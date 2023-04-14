@@ -1,4 +1,4 @@
-# python_event
+# Python_event
 ## Evento de python Python 3.10.6
 
 ### asgiref==3.6.0
